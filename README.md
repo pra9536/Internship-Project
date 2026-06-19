@@ -1,4 +1,4 @@
-# CodSoft Internship Projects 🚀
+# Internship Projects 🚀
 
 This repository contains Java projects developed during the **CodSoft Software Development Internship**. The projects are categorized into **Major Project** (fully refactored with OOPs, Concurrency, and Exception Handling) and **Minor Projects** (core utility and game apps).
 
